@@ -33,7 +33,7 @@ http://user-api.loc/api/user/get/2
 
 **Input GET id parameter in url:**
 
-**Output: User data or error message**
+**Output: User data or error message:**
 
     {
     "username": "username",
@@ -94,7 +94,7 @@ http://user-api.loc/api/user/change/
 **DELETE USER:**
 http://user-api.loc/api/user/delete/
 
-**Input DELETE JSON(example):**
+**Input DELETE JSON(example)**
 
     {
     "api_key": "unique 36 symbols",
